@@ -1,0 +1,6 @@
+# Never commit real credentials -- .env.example is the template to copy.
+.env
+
+venv/
+__pycache__/
+*.py[cod]
